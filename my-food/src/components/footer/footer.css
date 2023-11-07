@@ -1,0 +1,41 @@
+*{
+    margin:0px;
+}
+
+.footer-section-1, .footer-section-2, .footer-section-3{
+    background-color:#342a2ad6;
+    margin:0px;
+}
+
+ul.footer{
+  padding:0px;
+  margin:0px;
+}
+
+ul.footer > li{
+   color:white;
+   list-style-type: none;
+   cursor: pointer;
+}
+
+.icon-container > i{
+    color:white;
+    padding:0px 13px;
+}
+
+.footer-section-3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-section-3 > p{
+    color:#808080c4;
+    text-align:center;
+    font-size: 25px;
+    width: 413px;
+}
+
+
+.row{
+    --bs-gutter-x: 0rem
+}

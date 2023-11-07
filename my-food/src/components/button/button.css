@@ -1,0 +1,39 @@
+
+.btn-group {
+    width: 20%;
+    margin:auto;
+    position: relative;
+}
+button.btn_bubble{
+    position: relative;
+    width:164px;
+    height:43px;
+    border-radius: 20px;
+    border:none;
+    margin-top :24px;
+    background:linear-gradient(90deg,#33b36b,#a6f2b2);
+    color:white;
+    overflow: hidden;
+}
+
+span.span_bubble{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+    border-radius: 50%;
+    background: #fff;
+    animation:animate 1s linear infinite;
+}
+
+@keyframes animate {
+    0%{
+        width: 0px;
+        height: 0px;
+        opacity: 0.3;
+    }
+    100%{
+        width: 500px;
+        height: 500px;
+        opacity: 0;
+    }
+}

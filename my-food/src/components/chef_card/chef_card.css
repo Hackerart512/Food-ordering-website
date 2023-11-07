@@ -1,0 +1,28 @@
+.chef-card{
+    width: 300px;
+    margin:12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 0 0 10px #cbc7c7;
+    border-radius: 13px;
+    overflow: hidden;
+    transition: all 0.5s ease-in-out;
+}
+
+.chef-card:hover{
+    background-color: #6bd86b;
+}
+
+.chef-card:hover h4{
+    color: white;
+}
+.chef-card:hover p{
+    color: white;
+}
+
+
+.chef-card > img{
+    width:100%;
+}

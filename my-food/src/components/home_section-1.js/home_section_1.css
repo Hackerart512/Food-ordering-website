@@ -1,0 +1,41 @@
+.home-section1{
+    /* background-image: url("../../../public/IMAGE/home.png"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    width: 70%;
+    padding: 81px 106px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.bg-green-btn-type{
+    background-color: #33b36b;
+    color: white;
+    border-radius: 24px;
+    padding: 9px 25px;
+}
+
+.home-section-2-img img{
+     width: 100%;
+
+}
+.home-section-2-details{
+    display: flex;
+    flex-direction: column;
+    justify-content: center
+}
+
+.home-section-3-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+     
+}
+
+img.home-section-3-img {
+    width:160px;
+}

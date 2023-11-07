@@ -1,0 +1,36 @@
+Thusday September  19, 2023
+ new file:   backend/src/models/Admin.js
+        new file:   backend/src/routers/admin.js
+        modified:   backend/src/routers/food.js
+        new file:   my-food/public/IMAGE/Cake.jpg
+        new file:   my-food/public/IMAGE/Creamy- mushroom.jpg
+        new file:   my-food/public/IMAGE/Mexical-fruit.jpg
+        new file:   my-food/public/IMAGE/Pineapple.jpg
+        new file:   my-food/public/IMAGE/Sweets.jpg
+        new file:   my-food/public/IMAGE/chips.jpg
+        new file:   my-food/public/IMAGE/coffeine.jpg
+        new file:   my-food/public/IMAGE/ginger-water.jpg
+        new file:   my-food/public/IMAGE/maharashtra food.jpg
+        new file:   my-food/public/IMAGE/mint-magic.jpg
+        new file:   my-food/public/IMAGE/salad-magic.jpg
+        modified:   my-food/src/App.js
+        modified:   my-food/src/components/featured_card/featured_card.css
+        modified:   my-food/src/components/home_section-1.js/Home_section_1.js
+        modified:   my-food/src/components/home_section-1.js/home_section_1.css
+        modified:   my-food/src/components/navbar/navbar.css
+        modified:   my-food/src/components/product_card/Product_card.js
+        modified:   my-food/src/components/product_card/product_card.css
+        modified:   my-food/src/components/product_menu/Product_menu.js
+        modified:   my-food/src/components/shopping_cart/Shopping_cart.js
+        modified:   my-food/src/components/show_food/Show_foods.js
+        modified:   my-food/src/components/show_food/show_food.css
+        modified:   my-food/src/components/sidebar/Sidebar.js
+        modified:   my-food/src/components/sidebar/sidebar.css
+        modified:   my-food/src/pages/add_food/Add_food.js
+        new file:   my-food/src/pages/admin/Admin.js
+        new file:   my-food/src/pages/admin/admin.css
+        modified:   my-food/src/pages/dashboard/Dashboard.js
+        modified:   my-food/src/pages/home/Home.js
+        modified:   my-food/src/pages/updatefood/Update_food.js
+        modified:   my-food/src/pages/view_food/View_food.js
+        modified:   my-fo

@@ -1,0 +1,14 @@
+.cetegory-label{
+    margin:0px 11px;
+}
+
+.cetegory-div{
+    padding: 14px;
+    text-align: justify;
+    margin:3px;
+    border-radius: 6px;
+}
+
+.cetegory-div:nth-child(even){
+    background-color: #6bd86b5e;
+}

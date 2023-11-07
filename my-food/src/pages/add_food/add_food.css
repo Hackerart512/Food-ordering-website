@@ -1,0 +1,42 @@
+label > i{
+    font-size:27px;
+    margin:15px;
+}
+
+input.inp1, select.inp1{
+    border: 2px solid #404040;
+    /* border: 2px solid #673ab7; */
+    border-radius: 11px;
+    width: 411px;
+    color: white;
+}
+
+input.inp1::placeholder{
+    color:white;
+}
+
+
+option{
+    color: #673ab7;
+    background-color:#060322;
+    border-radius:23px
+}
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 32px;
+}
+
+.btn1{
+    background-color: '#673ab7';
+    width: 80px;
+    height: 38px;
+    border-radius: 0px;
+    display: block;
+    width: 48%;
+    color: white;
+    border: none;
+    margin: 12px;
+}

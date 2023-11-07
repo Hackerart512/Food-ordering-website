@@ -1,0 +1,21 @@
+.featured-card{
+    width: 300px;
+    margin:12px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 0 0 10px #cbc7c7;
+    overflow: hidden;
+    transition: all 0.5s ease-in-out;
+}
+
+.featured-card:hover{
+    transform: scale(0.9);
+}
+
+.featured-card > img{
+    width:100%;
+    object-fit:fill;
+    height: 230px;
+    background-position:center;
+}
